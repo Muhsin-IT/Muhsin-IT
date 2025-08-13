@@ -1,6 +1,6 @@
 ## Hello! Im Muhsin
 
-I am currently studying at [**Nahdlatul Ulama**](https://www.unu-jogja.ac.id/) Yogyakarta University
+Informatics student at _Nahdlatul Ulama University Yogyakarta_ [(UNU Yogyakarta)](https://www.unu-jogja.ac.id/).
 
 ---
 
