@@ -7,7 +7,7 @@ Tentang saya [https://muhsin.my.id](https://muhsin.my.id)
 
 <a href="mailto:muhsin230105@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"/>
-</a><img width="12" />
+</a>
 <a href="https://instagram.com/mad_muhsin">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30"/>
 </a>
