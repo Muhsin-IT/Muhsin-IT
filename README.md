@@ -3,9 +3,9 @@
 Informatics student at _Nahdlatul Ulama University Yogyakarta_ [(UNU Yogyakarta)](https://www.unu-jogja.ac.id/).  
 Tentang saya [https://muhsin.my.id](https://muhsin.my.id)  
 
-[![muhsin230105@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=logoColor=white)](mailto:muhsin230105@gmail.com)
+[![muhsin230105@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsin230105@gmail.com)
 <img width="12" />
-[![mad_muhsin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=logoColor=white)](https://instagram.com/mad_muhsin)
+[![mad_muhsin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mad_muhsin)
 ---
 
 <!-- <div align="left">
