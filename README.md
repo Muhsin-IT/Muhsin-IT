@@ -6,12 +6,12 @@ Tentang saya [https://muhsin.my.id](https://muhsin.my.id)
 ## 📫 Contact Me
 
 <a href="mailto:muhsin230105@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://instagram.com/mad_muhsin">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30"/>
 </a>
 
 
