@@ -1,7 +1,7 @@
 ## Hello! Im Muhammad Muhsin
 
-Informatics student at _Nahdlatul Ulama University Yogyakarta_ [(UNU Yogyakarta)](https://www.unu-jogja.ac.id/).
-[Tentang saya](https://muhsin.my.id)
+Informatics student at _Nahdlatul Ulama University Yogyakarta_ [(UNU Yogyakarta)](https://www.unu-jogja.ac.id/).  
+Tentang saya [https://muhsin.my.id](https://muhsin.my.id)
 
 ---
 
